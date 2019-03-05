@@ -18,6 +18,7 @@ Bethereum is an innovative social betting solution built on blockchain technolog
 * [v0.23](#v023)
 * [v0.2](#v02)
 * [v0.12](#v012) 
+* [v0.1](#v01) 
 
 ## v0.23
 Date released: _November 22, 2018_
@@ -69,3 +70,20 @@ Date released: _October 26, 2018_
 *	Clearer, shorter text and explanations
 *	Clearer live match indicator
 *	Other minor improvements, fixes, and polish
+
+## v0.1
+Date released: _October 15, 2018_
+
+### New Features
+* Added variable betting stakes
+* Added basketball and tennis bets support
+* Added in-game chat
+* Added personalisation elements (avatar)
+
+### Updates / Improvements
+* Developed new betting engine
+* Integrated live results data-feed provider
+* Redesigned betting interface
+* Major performance improvements
+* Major UX improvements
+
