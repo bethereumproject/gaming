@@ -8,6 +8,7 @@ Bethereum is an innovative social betting solution built on blockchain technolog
 <p align="center">
   <a href="https://bethereum.com">Website</a> |
   <a href="https://gaming.bethereum.com">Platform</a> |
+  <a href="https://goo.gl/forms/hUaGQwsnPVYpRUph2">Affiliate Program</a> |
   <a href="https://t.me/bethereum">Telegram</a> |
   <a href="https://t.me/BethereumNews">News</a> |
   <a href="https://twitter.com/bethereumteam">Twitter</a> |
