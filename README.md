@@ -15,10 +15,38 @@ Bethereum is an innovative social betting solution built on blockchain technolog
 </p>
 
 # Releases
+* [v0.4](#v04)
 * [v0.23](#v023)
 * [v0.2](#v02)
 * [v0.12](#v012) 
 * [v0.1](#v01) 
+
+## v0.4
+Date released: March 19, 2019_
+
+### New Features
+* Added eSports section
+* Added Dota 2 bet support
+* Added CounterStrike:GO bet support
+* Added League of Legends bet support
+* Added Overwatch bet support
+* Added livestream of live eSports matches
+*	Added bet on multiple match results
+*	Added bet result notification - Detailed report of your bet outcomes for ended matches, available after you return to the platform.
+* Added leaderboard filtering
+* Added support for time-limited events
+* Added live match timer and tracker
+* Added explanatory tooltips and callouts for new features
+* Added more match sorting options
+* Added potential win info and odds over time
+* Added [affiliate program](https://goo.gl/forms/hUaGQwsnPVYpRUph2)
+
+### Updates / Improvements
+*	Improved bet share and referrals functionality
+* Improved multiple accounts mitigation
+* Improved multiple bet placement
+* Improved player stats
+* Various major UX and UI improvements
 
 ## v0.23
 Date released: _November 22, 2018_
