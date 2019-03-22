@@ -16,11 +16,29 @@ Bethereum is an innovative social betting solution built on blockchain technolog
 </p>
 
 # Releases
+* [v0.41](#v041)
 * [v0.4](#v04)
 * [v0.23](#v023)
 * [v0.2](#v02)
 * [v0.12](#v012) 
 * [v0.1](#v01) 
+
+## v0.41
+Date released: _March 20, 2019_
+
+### New Features
+* Added support for non-live coverage matches
+* Added game time and period to mobile version
+
+### Updates / Improvements
+*	Fixed order of legend names in potential win info modal window
+* Fixed bugs with the watch button
+* Fixed ETH wallet address modal window
+* Fixed popular match sorting
+* Fixed prizes and points in leaderboard
+* Fixed bugs with callouts
+* Imporved clickable areas in potential win info modal window
+* Improved scroll layout and URL hiding on iOS
 
 ## v0.4
 Date released: _March 19, 2019_
