@@ -37,7 +37,7 @@ Date released: _March 20, 2019_
 * Fixed popular match sorting
 * Fixed prizes and points in leaderboard
 * Fixed bugs with callouts
-* Imporved clickable areas in potential win info modal window
+* Improved clickable areas in potential win info modal window
 * Improved scroll layout and URL hiding on iOS
 
 ## v0.4
