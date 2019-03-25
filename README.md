@@ -16,12 +16,32 @@ Bethereum is an innovative social betting solution built on blockchain technolog
 </p>
 
 # Releases
+* [v0.42](#v042) — _March 25, 2019_
 * [v0.41](#v041) — _March 20, 2019_
 * [v0.4](#v04) — _March 19, 2019_
 * [v0.23](#v023) — _November 22, 2018_
 * [v0.2](#v02) — _November 13, 2018_
 * [v0.12](#v012) — _October 26, 2018_
 * [v0.1](#v01) — _October 15, 2018_
+
+## v0.42
+Date released: _March 25, 2019_
+
+### New Features
+* Added support for versatile eSports livestream sources
+* Added new mobile style for chat
+* Added affiliate program buttons
+* Added ETH wallet address guide
+
+### Updates / Improvements
+*	Fixed closing of callouts
+* Fixed leaderboard ranks and next prize info
+* Fixed closing of chat
+* Increased max character count to 165 characters in chat
+* Fixed bet outcome notifications (color and styling)
+* Fixed potential win pie chart on mobile
+* Improved leaderboard page sizing
+* Improved basketball livetracker sizing
 
 ## v0.41
 Date released: _March 20, 2019_
