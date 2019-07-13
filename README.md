@@ -16,6 +16,8 @@ Bethereum is an innovative social betting solution built on blockchain technolog
 </p>
 
 # Releases
+* [v0.51](#v051) — _May 22, 2019_
+* [v0.5](#v05) — _May 9, 2019_
 * [v0.43](#v043) — _April 10, 2019_
 * [v0.42](#v042) — _March 25, 2019_
 * [v0.41](#v041) — _March 20, 2019_
@@ -24,6 +26,30 @@ Bethereum is an innovative social betting solution built on blockchain technolog
 * [v0.2](#v02) — _November 13, 2018_
 * [v0.12](#v012) — _October 26, 2018_
 * [v0.1](#v01) — _October 15, 2018_
+
+## v0.51
+Date released: _May 22, 2019_
+
+### New Features
+* Basic anti-cheat features on Bether-io
+
+### Updates / Improvements
+*	Bether-io improved balancing
+* Bether-io fixes and polish
+
+## v0.5
+Date released: _May 9, 2019_
+
+### New Features
+* Added support for skill-based gaming
+* Launched Bether-io skill-based game
+* New gaming services backend
+* Implemented token withdrawal on game section
+* Integrated Ethereum Blockchain functionality and services
+* Launched Metamask support (game section)
+
+### Updates / Improvements
+*	Various minor improvements, fixes, and polish
 
 ## v0.43
 Date released: _April 10, 2019_
