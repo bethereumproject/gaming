@@ -16,7 +16,7 @@ Bethereum is an innovative social betting solution built on blockchain technolog
 </p>
 
 # Releases
-* [v0.61] (#v061) - _November 22, 2019_
+* [v0.61](#v061) - _November 22, 2019_
 * [v0.51](#v051) — _May 22, 2019_
 * [v0.5](#v05) — _May 9, 2019_
 * [v0.43](#v043) — _April 10, 2019_
