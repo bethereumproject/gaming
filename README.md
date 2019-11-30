@@ -16,6 +16,7 @@ Bethereum is an innovative social betting solution built on blockchain technolog
 </p>
 
 # Releases
+* [v0.62](#062) - _November 29, 2019_
 * [v0.61](#v061) - _November 22, 2019_
 * [v0.6](#v06) - _October 25, 2019_
 * [v0.51](#v051) — _May 22, 2019_
@@ -28,6 +29,13 @@ Bethereum is an innovative social betting solution built on blockchain technolog
 * [v0.2](#v02) — _November 13, 2018_
 * [v0.12](#v012) — _October 26, 2018_
 * [v0.1](#v01) — _October 15, 2018_
+
+## V0.62
+Date released:  _November 29, 2019_
+
+### Updates / Improvments
+* O/U for eSports maps is now displayed on my bets
+* Various minor improvements, fixes, and polish
 
 ## v0.61
 Date released: _November 22, 2019_
